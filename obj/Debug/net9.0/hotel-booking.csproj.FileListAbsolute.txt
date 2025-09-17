@@ -1,0 +1,14 @@
+/home/andre/Documentos/projetos/Github/hotel-booking/bin/Debug/net9.0/hotel-booking
+/home/andre/Documentos/projetos/Github/hotel-booking/bin/Debug/net9.0/hotel-booking.deps.json
+/home/andre/Documentos/projetos/Github/hotel-booking/bin/Debug/net9.0/hotel-booking.runtimeconfig.json
+/home/andre/Documentos/projetos/Github/hotel-booking/bin/Debug/net9.0/hotel-booking.dll
+/home/andre/Documentos/projetos/Github/hotel-booking/bin/Debug/net9.0/hotel-booking.pdb
+/home/andre/Documentos/projetos/Github/hotel-booking/obj/Debug/net9.0/hotel-booking.GeneratedMSBuildEditorConfig.editorconfig
+/home/andre/Documentos/projetos/Github/hotel-booking/obj/Debug/net9.0/hotel-booking.AssemblyInfoInputs.cache
+/home/andre/Documentos/projetos/Github/hotel-booking/obj/Debug/net9.0/hotel-booking.AssemblyInfo.cs
+/home/andre/Documentos/projetos/Github/hotel-booking/obj/Debug/net9.0/hotel-booking.csproj.CoreCompileInputs.cache
+/home/andre/Documentos/projetos/Github/hotel-booking/obj/Debug/net9.0/hotel-booking.dll
+/home/andre/Documentos/projetos/Github/hotel-booking/obj/Debug/net9.0/refint/hotel-booking.dll
+/home/andre/Documentos/projetos/Github/hotel-booking/obj/Debug/net9.0/hotel-booking.pdb
+/home/andre/Documentos/projetos/Github/hotel-booking/obj/Debug/net9.0/hotel-booking.genruntimeconfig.cache
+/home/andre/Documentos/projetos/Github/hotel-booking/obj/Debug/net9.0/ref/hotel-booking.dll
